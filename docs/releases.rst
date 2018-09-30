@@ -21,6 +21,9 @@ unreleased
 
 `git master <https://github.com/meejah/txtorcon>`_ *will likely become v19.0.0*
 
+ * `non_anonymous=` flag for :func:`txtorcon.launch`
+
+
 v18.2.0
 -------
 
