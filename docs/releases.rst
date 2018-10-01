@@ -21,7 +21,7 @@ unreleased
 
 `git master <https://github.com/meejah/txtorcon>`_ *will likely become v19.0.0*
 
- * `non_anonymous=` flag for :func:`txtorcon.launch`
+ * support `non_anonymous_mode=` for :func:`txtorcon.launch`
 
 
 v18.2.0
@@ -31,7 +31,6 @@ v18.2.0
  * add `privateKeyFile=` option to endpoint parser (ticket 313)
  * use `privateKey=` option properly in endpoint parser
  * support `NonAnonymous` mode for `ADD_ONION` via `single_hop=` kwarg
- * support `non_anonymous_mode=` for :func:`txtorcon.launch`
 
 
 v18.1.0
