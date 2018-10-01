@@ -33,6 +33,7 @@ v18.2.0
  * support `NonAnonymous` mode for `ADD_ONION` via `single_hop=` kwarg
  * support `non_anonymous_mode=` for :func:`txtorcon.launch`
 
+
 v18.1.0
 -------
 
